@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0b59ee5f-6d90-44d1-a6e3-104eb3fbf895" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="thankscap.com.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -55,7 +56,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="4" selection-start="263" selection-end="263" vertical-scroll-proportion="0.26548672" vertical-offset="0" max-vertical-offset="1020">
+            <state line="16" column="58" selection-start="577" selection-end="577" vertical-scroll-proportion="0.42477876" vertical-offset="0" max-vertical-offset="1020">
               <folding />
             </state>
           </provider>
@@ -191,8 +192,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/img" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/css" />
@@ -306,7 +307,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="4" selection-start="263" selection-end="263" vertical-scroll-proportion="0.26548672" vertical-offset="0" max-vertical-offset="1020">
+        <state line="16" column="58" selection-start="577" selection-end="577" vertical-scroll-proportion="0.42477876" vertical-offset="0" max-vertical-offset="1020">
           <folding />
         </state>
       </provider>
