@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0b59ee5f-6d90-44d1-a6e3-104eb3fbf895" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/captain-sticker.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/captain.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.onepage-scroll.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/onepage-scroll.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="thankscap.com.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -50,19 +43,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="228" column="56" selection-start="4051" selection-end="4051" vertical-scroll-proportion="0.40104166" vertical-offset="3189" max-vertical-offset="5055">
+            <state line="228" column="56" selection-start="4051" selection-end="4051" vertical-scroll-proportion="0.0" vertical-offset="3189" max-vertical-offset="5055">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="46" column="68" selection-start="1846" selection-end="1862" vertical-scroll-proportion="-15.416667" vertical-offset="320" max-vertical-offset="990">
+            <state line="10" column="4" selection-start="263" selection-end="263" vertical-scroll-proportion="0.26548672" vertical-offset="0" max-vertical-offset="1020">
               <folding />
             </state>
           </provider>
@@ -84,8 +77,8 @@
         <option value="$PROJECT_DIR$/js/jquery.onepage-scroll.js" />
         <option value="$PROJECT_DIR$/css/onepage-scroll.css" />
         <option value="$PROJECT_DIR$/js/main.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -304,16 +297,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="68" selection-start="1846" selection-end="1862" vertical-scroll-proportion="-15.416667" vertical-offset="320" max-vertical-offset="990">
+        <state line="228" column="56" selection-start="4051" selection-end="4051" vertical-scroll-proportion="0.0" vertical-offset="3189" max-vertical-offset="5055">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="228" column="56" selection-start="4051" selection-end="4051" vertical-scroll-proportion="0.40104166" vertical-offset="3189" max-vertical-offset="5055">
+        <state line="10" column="4" selection-start="263" selection-end="263" vertical-scroll-proportion="0.26548672" vertical-offset="0" max-vertical-offset="1020">
           <folding />
         </state>
       </provider>
