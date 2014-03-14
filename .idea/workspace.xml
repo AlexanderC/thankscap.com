@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0b59ee5f-6d90-44d1-a6e3-104eb3fbf895" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.base64.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/main.js" afterPath="$PROJECT_DIR$/js/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="thankscap.com.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,19 +29,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="onepage-scroll.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/onepage-scroll.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="95" column="1" selection-start="1887" selection-end="1887" vertical-scroll-proportion="0.0" vertical-offset="926" max-vertical-offset="1515">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="3" selection-start="522" selection-end="522" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
+            <state line="51" column="54" selection-start="1580" selection-end="1580" vertical-scroll-proportion="1.328125" vertical-offset="0" max-vertical-offset="1020">
               <folding />
             </state>
           </provider>
@@ -46,16 +41,18 @@
       <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="228" column="56" selection-start="4051" selection-end="4051" vertical-scroll-proportion="0.0" vertical-offset="3189" max-vertical-offset="5055">
-              <folding />
+            <state line="434" column="1" selection-start="75717" selection-end="75717" vertical-scroll-proportion="0.0" vertical-offset="6129" max-vertical-offset="6720">
+              <folding>
+                <element signature="e#8645#75684#2" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="52" column="25" selection-start="2195" selection-end="2195" vertical-scroll-proportion="0.6283186" vertical-offset="425" max-vertical-offset="990">
+            <state line="32" column="48" selection-start="1327" selection-end="1327" vertical-scroll-proportion="-3.125" vertical-offset="405" max-vertical-offset="1035">
               <folding />
             </state>
           </provider>
@@ -76,9 +73,10 @@
       <list>
         <option value="$PROJECT_DIR$/js/jquery.onepage-scroll.js" />
         <option value="$PROJECT_DIR$/css/onepage-scroll.css" />
-        <option value="$PROJECT_DIR$/js/main.js" />
+        <option value="$PROJECT_DIR$/js/jquery.base64.js" />
         <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/js/main.js" />
       </list>
     </option>
   </component>
@@ -274,15 +272,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/js/jquery.onepage-scroll.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="341" column="17" selection-start="14323" selection-end="14323" vertical-scroll-proportion="0.9704861" vertical-offset="4556" max-vertical-offset="5205">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/onepage-scroll.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="95" column="1" selection-start="1887" selection-end="1887" vertical-scroll-proportion="0.0" vertical-offset="926" max-vertical-offset="1515">
@@ -290,23 +279,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/main.js">
+    <entry file="file://$PROJECT_DIR$/js/jquery.base64.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="3" selection-start="522" selection-end="522" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
+        <state line="339" column="32" selection-start="10040" selection-end="10040" vertical-scroll-proportion="8.633277" vertical-offset="0" max-vertical-offset="5505">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery.onepage-scroll.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="341" column="17" selection-start="14323" selection-end="14323" vertical-scroll-proportion="0.0" vertical-offset="4629" max-vertical-offset="5205">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="228" column="56" selection-start="4051" selection-end="4051" vertical-scroll-proportion="0.0" vertical-offset="3189" max-vertical-offset="5055">
-          <folding />
+        <state line="434" column="1" selection-start="75717" selection-end="75717" vertical-scroll-proportion="0.0" vertical-offset="6129" max-vertical-offset="6720">
+          <folding>
+            <element signature="e#8645#75684#2" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="25" selection-start="2195" selection-end="2195" vertical-scroll-proportion="0.6283186" vertical-offset="425" max-vertical-offset="990">
+        <state line="32" column="48" selection-start="1327" selection-end="1327" vertical-scroll-proportion="-3.125" vertical-offset="405" max-vertical-offset="1035">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="51" column="54" selection-start="1580" selection-end="1580" vertical-scroll-proportion="1.328125" vertical-offset="0" max-vertical-offset="1020">
           <folding />
         </state>
       </provider>

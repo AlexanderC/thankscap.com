@@ -22,6 +22,7 @@
 
 <script type="text/javascript" src="http://code.jquery.com/jquery-1.9.1.js"></script>
 <script type="text/javascript" src="/js/jquery.onepage-scroll.js"></script>
+<script type="text/javascript" src="/js/jquery.base64.js"></script>
 <script type="text/javascript" src="/js/main.js"></script>
 
 <link href='/css/onepage-scroll.css' rel='stylesheet' type='text/css'>
@@ -29,6 +30,8 @@
 
 </head>
 <body>
+<div class="arrow animated bounce hidden"></div>
+
 <div class="wrapper">
     <div class="main">
 
@@ -47,9 +50,9 @@
                 <h2>Get a personalized link of the page...</h2>
 
                 <form action="" method="GET" class="personalize-form">
-                    <input type="text" class="form-input" name="n" placeholder="Your Name" required/>
+                    <input type="text" class="form-input" name="name" placeholder="Your Name" required/>
                     <br/>
-                    <input type="email" class="form-input" name="e" placeholder="Email" required/>
+                    <input type="email" class="form-input" name="email" placeholder="Email" required/>
                     <br/>
                     <input type="submit" class="personalize-submit btn get-link" value="Get it!"/>
                 </form>
