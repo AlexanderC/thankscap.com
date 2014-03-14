@@ -21,8 +21,7 @@ $().ready(function(){
         }
 
         if(data && data.name && data.email) {
-            author.attr("href", "mailto:" + data.email + "?subject=Hi%20" + encodeURIComponent(data.name) + ",%20Captain%20Obvious%20is%20mailing%20you!");
-            author.text(data.name);
+            fillAuthor(author, data);
         }
     }
 
@@ -43,8 +42,7 @@ $().ready(function(){
 
         window.history.replaceState('Object', 'Title', newUrl);
 
-        author.attr("href", "mailto:" + data.email + "?subject=Hi%20" + encodeURIComponent(data.name) + ",%20Captain%20Obvious%20is%20mailing%20you!");
-        author.text(data.name);
+        fillAuthor(author, data);
 
         // move to first page
         cont.moveTo(1);
@@ -60,3 +58,9 @@ $().ready(function(){
 });
 
 /* some additional functionality */
+
+function fillAuthor(author, data)
+{
+    author.attr("href", "mailto:" + data.email + "?body=[Referred%20from%20" + (encodeURIComponent(document.referrer) || "UNKNOWN") + "]&subject=Hi%20" + encodeURIComponent(data.name) + ",%20Captain%20Obvious%20is%20mailing%20you!");
+    author.text(data.name);
+}
