@@ -50,7 +50,7 @@ $().ready(function(){
         // show arrow that indicated to the status bar
         var arrow = $("div.arrows-up-container");
         arrow.fadeIn("slow", function() {
-            $(this).delay(6400).fadeOut("fast");
+            $(this).delay(7400).fadeOut("fast");
         });
 
         return false;
