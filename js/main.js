@@ -48,9 +48,9 @@ $().ready(function(){
         cont.moveTo(1);
 
         // show arrow that indicated to the status bar
-        var arrow = $("div.arrow");
+        var arrow = $("div.arrows-up-container");
         arrow.fadeIn("slow", function() {
-            $(this).delay(5400).fadeOut("fast");
+            $(this).delay(6400).fadeOut("fast");
         });
 
         return false;
